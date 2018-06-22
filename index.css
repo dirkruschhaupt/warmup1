@@ -1,0 +1,72 @@
+body {
+  background-image: url("sunset-in-the-city-background_1092-42.jpg");
+  background-color: lightgray;
+  margin: 0px;
+  background-size: cover;
+  background-repeat: no-repeat, repeat;
+}
+
+p {
+  margin-top: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: left;
+}
+
+nav {
+  margin-left: 1%;
+  margin-bottom: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 24px;
+  color: black;
+}
+
+button {
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: white;
+  background-color: red;
+  border: none;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+form {
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-right: auto;
+  margin-bottom: 40px;
+  width: 40%;
+  padding: 0px;
+  text-align: left;
+}
+
+div {
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  width: 40%;
+  padding: 0px;
+  text-align: center;
+}
+
+.active{
+  text-decoration: underline;
+}
+
+section {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 50%;
+  margin-right: 15%;
+  text-align: left;
+}
